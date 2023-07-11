@@ -9,13 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@netlify/next": "1.4.7",
-    "next": "13.4.4",
+    "@netlify/next": "1.4.9",
+    "next": "13.4.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "4.38.0",
+    "@netlify/plugin-nextjs": "4.39.1",
     "@types/node": "17.0.38",
     "@types/react": "18.2.8",
     "@types/react-dom": "18.2.4",
